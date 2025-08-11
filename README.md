@@ -1,4 +1,4 @@
-## Hello! I'am Luis Fernando Freitas, Developer and Ethical Hacker!
+## Hello! I'am Luis Fernando Freitas, Developer in Python, Css, JavaScript and Html
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
