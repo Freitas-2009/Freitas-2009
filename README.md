@@ -23,11 +23,18 @@
   <a href = "mailto:luisfernando.cfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-fernando-freitas-269505379 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
                                                                                            
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pauloVarelo/pauloVarelo/output/pacman-contribution-graph-dark.svg">
 </picture>
+
+
+
+
 
 ### Spotify Playing 🎧
 
