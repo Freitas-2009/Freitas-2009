@@ -46,33 +46,4 @@
 
 <img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">
 
-### Connect Me.. (●'◡'●)
-
-<a href="https://www.linkedin.com/in/matheushenrique-ofc/">
-  <img height="35" src="./assets/social-media/linkedin.png">
-</a>
-
-<br>
-<a href="mailto:matheustennant@gmail.com">
-  <img height="25" src="./assets/social-media/gmail.png">
-</a>
-
-<br>
-<a href="https://www.instagram.com/math_henrique.ofc/">
-  <img height="35" src="./assets/social-media/instagram.png">
-</a>
-
-[![Followers](https://img.shields.io/github/followers/matheushenrique129.svg?style=social&label=Follow)](https://github.com/matheushenrique129)
-<img src="./assets/cat.gif" width="60" height="60"/>
-
-<br>
-
-<div align="center">
-  <p align="center"><b>Visits to my Profile :detective:</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p> 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb30&height=120&section=footer"/>
-
-
 
