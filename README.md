@@ -21,7 +21,19 @@
   <a href="https://instagram.com/_luis.freitas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luisfernando.cfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-fernando-freitas-269505379 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/luis-fernando-freitas-269505379 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+                                                                                           
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ei5ceocxsjeyzmjqzdbaxuvkdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ei5ceocxsjeyzmjqzdbaxuvkdq?si=7dc1e04f5b394073)
+
+<!-- [![Spotify](https://novatorem-git-main.vercel.app/api/spotify)](https://open.spotify.com/user/31ei5ceocxsjeyzmjqzdbaxuvkdq?si=7dc1e04f5b394073) -->
+
+<p align="center">
+  <img height="180" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">target="_blank"></a>  
 </div>
 
 
