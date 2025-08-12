@@ -29,15 +29,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pauloVarelo/pauloVarelo/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ei5ceocxsjeyzmjqzdbaxuvkdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ei5ceocxsjeyzmjqzdbaxuvkdq?si=7dc1e04f5b394073)
-
-<!-- [![Spotify](https://novatorem-git-main.vercel.app/api/spotify)](https://open.spotify.com/user/31ei5ceocxsjeyzmjqzdbaxuvkdq?si=7dc1e04f5b394073) -->
-
-<p align="center">
-  <img height="180" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">target="_blank"></a>  
-</div>
