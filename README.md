@@ -30,3 +30,49 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pauloVarelo/pauloVarelo/output/pacman-contribution-graph-dark.svg">
 </picture>
 
+</div>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ei5ceocxsjeyzmjqzdbaxuvkdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ei5ceocxsjeyzmjqzdbaxuvkdq?si=7dc1e04f5b394073)
+
+<!-- [![Spotify](https://novatorem-git-main.vercel.app/api/spotify)](https://open.spotify.com/user/31ei5ceocxsjeyzmjqzdbaxuvkdq?si=7dc1e04f5b394073) -->
+
+<p align="center">
+  <img height="180" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">
+
+### Connect Me.. (●'◡'●)
+
+<a href="https://www.linkedin.com/in/matheushenrique-ofc/">
+  <img height="35" src="./assets/social-media/linkedin.png">
+</a>
+
+<br>
+<a href="mailto:matheustennant@gmail.com">
+  <img height="25" src="./assets/social-media/gmail.png">
+</a>
+
+<br>
+<a href="https://www.instagram.com/math_henrique.ofc/">
+  <img height="35" src="./assets/social-media/instagram.png">
+</a>
+
+[![Followers](https://img.shields.io/github/followers/matheushenrique129.svg?style=social&label=Follow)](https://github.com/matheushenrique129)
+<img src="./assets/cat.gif" width="60" height="60"/>
+
+<br>
+
+<div align="center">
+  <p align="center"><b>Visits to my Profile :detective:</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/MatheusHenrique129/count.svg" /></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffeb30&height=120&section=footer"/>
+
+
+
