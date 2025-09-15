@@ -9,7 +9,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/Freitas-2009/github-profile-trophy">
-    <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
+    <img src="https://hacked-github-stat-trophies.vercel.app/?username=Freitas-2009&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
   </a>
 </p>
     
