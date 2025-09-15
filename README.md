@@ -7,6 +7,11 @@
   <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=Freitas-2009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-2009&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
+  </a>
+</p>
     
 <div align="center">
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
