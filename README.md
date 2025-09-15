@@ -8,7 +8,7 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-2009&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Freitas-2009/github-profile-trophy">
     <img src="https://hacked-github-stat-trophies.vercel.app/?username=cy83r-3x71nc710n&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
   </a>
 </p>
