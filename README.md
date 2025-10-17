@@ -29,10 +29,7 @@
   <a href="https://www.linkedin.com/in/luis-fernando-freitas-269505379 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 </div>
 
-<div align="center">
-  <img src="https://github.com/Freitas-2009/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" alt="GitHub Overview Dark Mode" />
-</div>
-
+="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Freitas-2009&theme=dark&hide_border=true&background=0d1117" height="160px"/>
 </div>
                                                                               
