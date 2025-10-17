@@ -30,7 +30,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/NazmusSayad/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" alt="GitHub Overview Dark Mode" />
+  <img src="https://github.com/Freitas-2009/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" alt="GitHub Overview Dark Mode" />
+</div>
+
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Freitas-2009&theme=dark&hide_border=true&background=0d1117" height="160px"/>
 </div>
                                                                               
 <picture>
