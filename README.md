@@ -30,8 +30,10 @@
   <a href="https://instagram.com/_luis.freitas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luisfernando.cfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luis-fernando-freitas-269505379" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Luis Fernando"/>
+  <a href="https://www.linkedin.com/in/luis-fernando-freitas-269505379" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; background-color:#0077B5; color:white; padding:5px 10px; border-radius:5px; font-family:sans-serif;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" style="margin-right: 8px;">
+    LinkedIn
+  </a>
   </a></div>
 
 <div align="center">
