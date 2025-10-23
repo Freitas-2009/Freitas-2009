@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Freitas-2009.Freitas-2009&left_color=light&right_color=cornflowerblue"  />
-</div>
+<div align="center">
 
 
 
