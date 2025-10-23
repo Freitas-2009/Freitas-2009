@@ -50,6 +50,18 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pauloVarelo/pauloVarelo/output/pacman-contribution-graph-dark.svg">
 </picture>
 
+<p align="center"><i> Thanks for visiting ! 🖖 </i></p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Freitas-2009.Freitas-2009&left_color=light&right_color=cornflowerblue"  />
+</div>
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+
+</div>
+
 </div>
 
 
