@@ -50,6 +50,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pauloVarelo/pauloVarelo/output/pacman-contribution-graph-dark.svg">
 </picture>
 
+---
+
 <p align="center"><i> Thanks for visiting ! 🖖 </i></p>
 
 <div align="center">
