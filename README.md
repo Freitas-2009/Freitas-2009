@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=20&section=header)
+![Header]([https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=20&section=header](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4facfe,100:00f2fe&section=header))
   
 ## 👋🏻Hello! I'am Luis Fernando Freitas, Developer in Python, Html, Css and JavaScript
 
