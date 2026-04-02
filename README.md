@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4facfe,100:00f2fe&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff416c,100:ff4b2b&section=header)
   
 ## 👋🏻Hello! I'am Luis Fernando Freitas, Developer in Python, Html, Css and JavaScript
 
@@ -64,7 +64,7 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff416c,100:ff4b2b&section=header)
 
 </div>
 
