@@ -25,11 +25,18 @@
   <img align="center" alt="Luis-SQL" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
   <img align="center" alt="Luis-Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   <img align="center" alt="Luis-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="Luis-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 </div>
  
    ##
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Freitas-2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Freitas-2009" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Luis-Fernando-Freitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-c-vinod" height="30" width="40" /></a>
+<a href="https://instagram.com/_luis.freitas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjun.c.vinod" height="30" width="40" /></a>
+<a href="xxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wXPEmYjn" height="30" width="40" /></a>
+</p>
+
 <div> 
   <a href="https://instagram.com/_luis.freitas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
