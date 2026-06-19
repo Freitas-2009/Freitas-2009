@@ -75,11 +75,12 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
 
-### 💻 Linguagens
+<td align="center" width="50%">
 
-<p align="center">
+<h3>💻 Linguagens</h3>
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
@@ -90,11 +91,11 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-### 🛠️ Ferramentas
+<h3>⚙️ Ferramentas</h3>
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
@@ -102,10 +103,9 @@
 </p>
 
 </td>
+
 </tr>
 </table>
-
-</div>
 
 </div>
 
