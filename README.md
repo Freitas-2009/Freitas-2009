@@ -27,7 +27,7 @@
   <img align="center" alt="Luis-Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </div>
 
-<div align="right">
+<div align="left">
 <h3 align="center">Ferramentas:</h3>
   <img align="center" alt="Luis-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Luis-Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
