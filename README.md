@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<div align="left">
+<div align="center">
 <h3>💻 Linguagens:</h3>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +27,7 @@
   <img align="center" alt="Luis-Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </div>
 
-<div align="left">
+<div align="center">
 <h3>🛠️ Ferramentas:</h3>
   <img align="center" alt="Luis-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Luis-Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
