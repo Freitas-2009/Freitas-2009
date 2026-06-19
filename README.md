@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
 <h3>Linguagens:</h3>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +27,7 @@
   <img align="center" alt="Luis-Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </div>
 
-<div align="center">
+<div align="right">
 <h3 align="center">Ferramentas:</h3>
   <img align="center" alt="Luis-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Luis-Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -35,7 +35,7 @@
   <img align="center" alt="Luis-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 </div>
  
-   ##
+
 
 <div> 
   <a href="https://instagram.com/_luis.freitas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
