@@ -73,7 +73,7 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0000,100:8b0000&section=footer)
 
-</div>
+
 
 <table width="100%">
 <tr>
@@ -108,3 +108,4 @@
 
 </tr>
 </table>
+</div>
