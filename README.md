@@ -16,7 +16,9 @@
     <img src="https://hacked-github-stat-trophies.vercel.app/?username=Freitas-2009&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
   </a>
 </p>
-
+      <! <li>
+        <a href="#">Aulas de canto/violão</a>
+      </li> >
 <div align="center">
 <h3 align="center">Linguagens:</h3>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
