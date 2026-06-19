@@ -73,40 +73,6 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0000,100:8b0000&section=footer)
 
-<table align="center">
-<tr>
-
-<td align="center" width="50%">
-
-<h3>💻 Linguagens</h3>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40"/>
-</p>
-
-</td>
-
-<td align="center" width="50%">
-
-<h3>⚙️ Ferramentas</h3>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-</p>
-
-</td>
-
-</tr>
-</table>
-
 </div>
 
 
