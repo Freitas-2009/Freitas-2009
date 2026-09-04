@@ -27,14 +27,12 @@
   <img align="center" alt="Luis-Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 </div>
 
-<div align="center">
-<h3>🛠️ Ferramentas:</h3>
-  <img align="center" alt="Luis-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Luis-Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  <img align="center" alt="Luis-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Luis-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="Luis-Discord" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord.svg" />
-</div>
+<p align="center">
+<h3>🛠️ Ferramentas:</h3>  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin,vscode,discord" />
+  </a>
+</p>
  
 
 
