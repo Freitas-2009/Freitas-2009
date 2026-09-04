@@ -6,11 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/Freitas-2009">
-  <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=Freitas-2009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-2009&layout=compact&langs_count_private=true&theme=dracula"/>
-</div>
+## 📊 Activity Snapshot
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=freitas-2009&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freitas-2009&hide=Html&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freitas-2009&theme=2077) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freitas-2009&theme=2077) | ![](https://github-readme-streak-stats.herokuapp.com?user=freitas-2009&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D) |
+| :-: | :-: |
 <p align="center">
   <a href="https://github.com/Freitas-2009/github-profile-trophy">
     <img src="https://hacked-github-stat-trophies.vercel.app/?username=Freitas-2009&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&margin-w=18&margin-h=10" alt="GitHub Profile Trophy">
@@ -44,10 +46,6 @@
 </a>
   </a></div>
 
-  ![](https://github-readme-streak-stats.herokuapp.com?user=freitas-2009&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D)
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freitas-2009&theme=2077"/>
-</div>
                                                                         
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
