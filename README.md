@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
-## 📊 Activity Snapshot
+## 💎 Activity Snapshot
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=freitas-2009&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freitas-2009&hide=Html&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freitas-2009&theme=2077) |
 | :-: | :-: | :-: |
@@ -35,7 +35,8 @@
  
 
 
-<div> 
+<div>
+<h3>💭 contact with me:</h3>  
   <a href="https://instagram.com/_luis.freitas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luisfernando.cfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -47,6 +48,7 @@
   </a></div>
 
 <p align='center'>
+<h3>📊 Most used languages:  </h3>  
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=freitas-2009&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
