@@ -1,7 +1,7 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0000,100:8b0000&section=header)
-  
+![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:ffffff&section=header)
+
 ## 👋🏻Hello! I'am Luis Fernando Freitas, Developer in Python, Html, Css and JavaScript
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
@@ -69,5 +69,5 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0000,100:8b0000&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:ffffff&section=footer)
 </div>
