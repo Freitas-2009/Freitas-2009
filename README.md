@@ -20,14 +20,14 @@
 </p>
 
 <div align="center">
-<h3>💻 Linguagens:</h3>
+<h3>💻 Languages:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,css,js,sqlite,lua" />
   </a>
 </div>
 
 <p align="center">
-<h3>🛠️ Ferramentas:</h3>  
+<h3>🛠️ Tools:</h3>  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,linkedin,vscode,discord" />
   </a>
