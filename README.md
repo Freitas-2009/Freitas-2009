@@ -46,7 +46,13 @@
 </a>
   </a></div>
 
-                                                                        
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=freitas-2009&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+                                                                 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
