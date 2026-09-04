@@ -44,9 +44,7 @@
 </a>
   </a></div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Freitas-2009&theme=dark&hide_border=true&background=0d1117" height="160px"/>
-</div>
+  ![](https://github-readme-streak-stats.herokuapp.com?user=freitas-2009&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D)
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freitas-2009&theme=2077"/>
 </div>
@@ -68,5 +66,4 @@
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff0000,100:8b0000&section=footer)
-
 </div>
